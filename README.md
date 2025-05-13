@@ -19,10 +19,6 @@ A nuvem oferece uma maneira moderna, escalável e econômica de acessar recursos
 - Aplicações
 - Dados
 
-🧠 Exemplos:  
-- Azure Virtual Machines  
-- Azure Storage  
-
 ---
 
 ### 🧰 PaaS - Platform as a Service
@@ -32,10 +28,6 @@ A nuvem oferece uma maneira moderna, escalável e econômica de acessar recursos
 ✅ O que o usuário gerencia:
 - Aplicações e dados
 
-🧠 Exemplos:  
-- Azure App Service  
-- Azure SQL Database  
-
 ---
 
 ### 🧑‍💼 SaaS - Software as a Service
@@ -43,11 +35,7 @@ A nuvem oferece uma maneira moderna, escalável e econômica de acessar recursos
 > 🖥️ Aplicações completas entregues como serviço via navegador
 
 ✅ O que o usuário faz:
-- Apenas consome o software, sem se preocupar com nada técnico
-
-🧠 Exemplos:  
-- Microsoft 365  
-- Dynamics 365  
+- Apenas consome o software, sem se preocupar com nada técnico  
 
 ---
 
