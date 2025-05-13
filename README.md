@@ -49,16 +49,15 @@ O *Azure Data Factory (ADF)* é um serviço de *integração de dados* em nuvem.
 
 ### 🛠️ Passos para Criar uma Data Factory:
 
-1. 🔍 Acesse o [Portal Azure](https://portal.azure.com)
-2. ➕ Vá em *Criar recurso* > Pesquise por Data Factory > *Criar*
-3. 📝 Preencha as informações:
+1. ➕ Vá em *Criar recurso* > Pesquise por Data Factory > *Criar*
+2. 📝 Preencha as informações:
    - *Nome da Factory*
    - *Região*
    - *Grupo de Recursos* (novo ou existente)
    - *Versão:* V2
-4. 📦 Crie ou selecione um Resource Group
-5. 🔧 Após criação, acesse a Data Factory e comece a criar pipelines
-6. 💾 Clique em *Publicar* para aplicar as alterações
+3. 📦 Crie ou selecione um Resource Group
+4. 🔧 Após criação, acesse a Data Factory e comece a criar pipelines
+5. 💾 Clique em *Publicar* para aplicar as alterações
 
 ---
 
